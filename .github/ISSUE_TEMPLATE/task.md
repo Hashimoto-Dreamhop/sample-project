@@ -2,7 +2,7 @@
 name: Task
 about: Describe this issue template's purpose here.
 title: ''
-labels: ''
+labels: Task
 assignees: ''
 
 ---
@@ -13,8 +13,8 @@ What・Whyもここに書くと良いと思う
 
 ## 変更点
 - [ ]
-  - [ ]
-  - [ ]
+- [ ]
+- [ ]
 - [ ]
 
 ## 追加課題
